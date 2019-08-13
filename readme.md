@@ -27,7 +27,7 @@ _luego_
 _Abre una consola de comandos en la carpeta del proyecto y ejecuta_
 
 ```
-python
+> python
 ```
 _Si python esta bien instaldo deberia aparecer el siguiente mensaje en la consola_
 
