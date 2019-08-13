@@ -2,7 +2,7 @@
 
 _Libreria para manejo de la impresora fiscal Epson modelo TM-T900FA escrita en python para sistemas operativos Windows._ 
 
-![alt text](https://raw.githubusercontent.com/sambenzt/TM-T900FA/master/image.jpeg | width=100)
+![alt text](https://raw.githubusercontent.com/sambenzt/TM-T900FA/master/image.jpeg)
  
 ### Instalación 
 
