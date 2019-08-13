@@ -59,7 +59,7 @@ _Probado en windows 7 de 64bits._
 
 ## Licencia 📄
 
-La libreria pertence a Epson. Enlace de descarga de archivos originales [Epson](https://epson.com.ar/Soporte/Punto-de-venta/Impresoras-fiscales/Epson-TM-T900FA/s/SPT_C31CB76402)
+La libreria pertence a Epson. Enlace de descarga de archivos originales en la web de [Epson](https://epson.com.ar/Soporte/Punto-de-venta/Impresoras-fiscales/Epson-TM-T900FA/s/SPT_C31CB76402)
 
 
 ---
