@@ -51,7 +51,7 @@ _La impresora deberia imprimir los siguientes tipos de comprobantes como se mues
 * _**Tique Factura**_
 * _**Tique Factura B**_
 * _**Tique nota de debito**_
-* _**ique nota de debito B**_
+* _**Tique nota de debito B**_
 * _**Tique nota de credito**_
 * _**Tique nota de credito B**_
 * _**Cierre X y Z**_
