@@ -14,7 +14,6 @@ _Agregar python a las variables de entorno de windows._
 
 ![alt text](https://raw.githubusercontent.com/sambenzt/TM-T900FA/master/python.png)
 
-
 _Copiar el archivo **EpsonFiscalInterface.dll** en la ruta **C:\Windows\SysWOW64**_
 
 _Abri la consola de comandos e ingresar a la ruta ****C:\Windows\SysWOW64**** y registrar **EpsonFiscalInterface.dll**:_
@@ -27,6 +26,8 @@ _luego_
 ```
 > regsvr32 EpsonFiscalInterface.dll
 ```
+_Instalar EpsonFiscalInterfaceInstaller.exe_
+
 ## Probando la libreria
 
 _Abre una consola de comandos en la carpeta del proyecto y ejecuta_
