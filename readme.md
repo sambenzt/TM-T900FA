@@ -12,6 +12,9 @@ _Instalar python-2.7.2.msi_
 
 _Agregar python a las variables de entorno de windows._
 
+![alt text](https://raw.githubusercontent.com/sambenzt/TM-T900FA/master/python.png)
+
+
 _Copiar el archivo **EpsonFiscalInterface.dll** en la ruta **C:\Windows\SysWOW64**_
 
 _Abri la consola de comandos e ingresar a la ruta ****C:\Windows\SysWOW64**** y registrar **EpsonFiscalInterface.dll**:_
